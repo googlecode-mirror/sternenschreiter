@@ -1,0 +1,1 @@
+<div id="content">{CONTENT}<br />{INFO}</div>
