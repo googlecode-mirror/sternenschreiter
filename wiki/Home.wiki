@@ -1,13 +1,14 @@
-#summary One-sentence summary of this page.
+#summary Start vom Ganzen
 #labels Phase-Requirements
 
-= Introduction =
+= Einführung =
 
-Das öffentliche Wiki zu Browsergame Sternenschreiter
+Das öffentliche Wiki zu Browsergame Sternenschreiter.
+Das Projekt-Kürzel ist *S.
 
 
 = Details =
 
-PHP/codeigniter, Mysql, jquery
+PHP/codeigniter, Mysql, jquery, Ajax
 
 to be continued...
